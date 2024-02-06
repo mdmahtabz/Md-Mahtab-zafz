@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cousin</title>
+</head>
+<body>
+    <h1>Cousin</h1>
+    <img src="mozammil.jpg" align="left" height="200">
+    <h4> Name:-Md Mozammil Imam </h4>
+    <h4>Mobile No:- 9153178700</h4>
+    <h4>Study in Jamia Millia Islamia </h4>
+    <h4>Social Media id :-<a href="https://www.instagram.com/mozammil_sheikh_a1/#">instagram</h4></a>
+    <h4>Relation:-Cousin Brother</h4>
+    <hr>
+    <img src="oruz.jpg" align="left" height="200">
+    <h4>Name:-Oruz </h4>
+    <h4>Mobile no:-6204262234</h4>
+    <h4>Study in Aakash Institute</h4>
+    <h4>Social Media id:- <a href="https://www.snapchat.com/add/oruzfatma22?share_id=XT29Ae3ms2g&locale=en-IN" >Snapchat</h4></a>
+    <h4>Relation:- Cousin Sister</h4>
+    <hr>
+    <img src="modassir.jpg" align="left" height="200">
+    <h4>Name:- Md modassir Imam</h4>
+    <h4>Mobile No:- 8797371199</h4>
+    <h4>Politicion</h4>
+    <h4>Social Media id:- <a href="https://www.instagram.com/modassir_sheikh_a1/">instagram</h4></a>
+    <h4>Relation:-Cousin Brother</h4>
+    <hr>
+    <img src="Araman.jpg" align="left" height="200">
+    <h4>Name:-Md Arman</h4>
+    <h4>Mobile No:-7991227471</h4>
+    <h4>Study in Aakash Institute</h4>
+    <h4>Social Mediaid:- <a href="https://www.instagram.com/itz_rider0348/#">instagram</h4></a>
+    <h4>Relation:-Cousin Brother</h4>
+    <hr>
+    <img src="Zesshan.jpg" align="left" height="200">
+    <h4>Name:- Md Zesshan</h4>
+    <h4>Mobile No:-6209236174 </h4>
+    <h4>Doing Job</h4>
+    <h4>Social Media id:- <a href="https://www.instagram.com/mr___zeeshan___8055/">instagram</h4></a>
+    <h4>Relation:-Cousin Brother</h4>
+    <hr>
+    
+
+
+
+    
+</body>
+</html>
